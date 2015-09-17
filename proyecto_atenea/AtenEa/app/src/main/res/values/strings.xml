@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AtenEa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <string name="about">ATeneA - Universidad Autonoma de Bucaramanga</string>
+    <string name="action_about">About</string>
+    <string name="website">desarrollador-android.com</string>
+    <string name="github">GitHub: github.com/dahnark</string>
+    <string name="drawer_header_image">drawer header image</string>
+    <string name="manage_account">Administrar</string>
+    <string name="add_account">Agregar Cuenta</string>
+    <string name="name">Henry Alvarez Astudillo</string>
+    <string name="email">halas110@soydetic.com</string>
+
+    <!-- drupal -->
+    <string name="url_drupal_login">http://ateneaprueba.soydetic.com/rest/user/login</string>
+    <string name="title_activity_main">MainActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_news">DetailNews</string>
+</resources>
